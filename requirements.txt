@@ -1,0 +1,9 @@
+cs50
+scikit-learn
+Werkzeug
+Jinja2
+MarkupSafe
+Flask
+Flask-Session
+sqlite3-binary
+requests
